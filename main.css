@@ -1,0 +1,56 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/62/0b/7f/620b7f52ae611773fff2559edea05b92.jpg);
+  background-size: cover;
+}
+
+#top {
+  background-color: gainsboro;
+}
+
+.first-years {
+  background-color: bisque;
+}
+
+.spooky {
+  background-color: darkslategray;
+}
+ 
+#hideForm {
+  display: none;
+}
+
+.gryffindor {
+  background-color: darkred;
+}
+
+.hufflepuff {
+  background-color: goldenrod;
+}
+
+.ravenclaw {
+  background-color: darkblue;
+}
+
+.slytherin {
+  background-color: darkolivegreen;
+}
+
+#card-title {
+  font-size: 15px;
+}
+
+#card-text {
+  font-size: 10px;
+}
+
+.first-years {
+  width: 50%;
+  padding-top: 5%;
+  min-height: 300px;
+}
+
+.spooky {
+  width: 50%;
+  padding-top: 5%;
+  min-height: 300px;
+}
